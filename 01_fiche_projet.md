@@ -2,8 +2,8 @@
 audience: equipe
 maturity: brouillon
 maturity_note: "À revalider après validation du périmètre, des technologies et de l'hébergement par le groupe et l'enseignant."
-owner: "À compléter — auteur principal"
-ia: "IA générative utilisée pour proposer la structure et la rédaction à partir du sujet et du schéma définis par le groupe ; contenu à relire et valider."
+owner: "Antonella Giovannetti"
+ia: "Chatgpt pour proposer la structure et la rédaction à partir du sujet et du schéma définis par le groupe ; contenu à relire et valider."
 ---
 
 # Fiche projet — Sécurisation et gouvernance d'un pipeline de données RH
@@ -11,9 +11,7 @@ ia: "IA générative utilisée pour proposer la structure et la rédaction à pa
 **Formation :** M2 Data Engineer — 2026-2027  
 **Module :** Souveraineté et sécurité de la donnée  
 **Sujet :** n° 8 — Un tableau de bord RH  
-**Date :** 20 novembre 2026  
-**Auteur principal :** À compléter  
-**Membres du groupe :** À compléter
+**Membres du groupe :** Antonella Giovannetti, Ala Eddine Yakoubi, Amine Choukir et Walid Makboul
 
 ## 1. Présentation du projet
 
